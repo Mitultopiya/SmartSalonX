@@ -145,6 +145,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For support, email support@smartsalon.com or create an issue in the repository.
 
----
-
-Built with ❤️ using Next.js and Node.js
